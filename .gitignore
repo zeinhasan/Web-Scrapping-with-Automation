@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Secrets folder
+.secrets
+
+# DAG files
+DAG/wdm-bq.py
+DAG/dag_pangan_harga_to_bq.py
